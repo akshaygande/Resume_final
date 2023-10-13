@@ -1,5 +1,5 @@
 const typedTextSpan = document.querySelector(".heading h1");
-const textArray = ["Akshay Gande", "Engineer Undergrad"];
+const textArray = ["Akshay Gande Engineer Undergrad"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; // Delay between current and next text
